@@ -18,8 +18,8 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
   *Smart and simple food management—plan meals and reduce waste.*
 
 - [**BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
-- <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" />
-  *A platform for beauty clinics to manage appointments and showcase services.*
+- *A platform for beauty clinics to manage appointments and showcase services.*
+- <img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" />  
 
 - [**Plants**](https://github.com/Recordline1/Plants)  
   *Everything plant lovers need: care tips, catalog, and a beautiful user experience.*
