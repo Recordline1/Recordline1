@@ -23,7 +23,7 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 - [**Plants**](https://github.com/Recordline1/Plants)  
   *Everything plant lovers need: care tips, catalog, and a beautiful user experience.*
   
-  - [**FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
+- [**FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
   *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
 
 ---
