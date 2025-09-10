@@ -1,4 +1,4 @@
-<h1> 👋 Hi, I'm Ihor D<h1/> 
+<h1> Hello, I'm Ihor D<h1/> 
 
 I'm a passionate **Frontend Developer** with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.
 
