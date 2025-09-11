@@ -16,6 +16,7 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 
 - [**FooDi**](https://github.com/Recordline1/FooDi)  
   *Smart and simple food management—plan meals and reduce waste.*
+ <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" /><div/>
 
 - [**BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
 - *A platform for beauty clinics to manage appointments and showcase services.*
@@ -23,10 +24,11 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 
 - [**Plants**](https://github.com/Recordline1/Plants)  
   *Everything plant lovers need: care tips, catalog, and a beautiful user experience.*
+  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/f152ce28-d3c7-4de8-9fbe-5c2ef3d5d653" /><div/>
   
 - [**FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
   *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
-
+  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/9a0883b7-0a27-4a5d-925e-c4c1b6f8fd63" /><div/>
 ---
 
 ## 🌐 Connect with Me
