@@ -20,17 +20,17 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" /><div/>
   
 <a href="https://recordline1.github.io/BeautyClinic/">Live Demo</a> 
-- [**BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
+- [**Code - BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
   *A platform for beauty clinics to manage appointments and showcase services.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" /><div/>  
   
 <a href="https://recordline1.github.io/Plants/">Live Demo</a> 
-- [**Plants**](https://github.com/Recordline1/Plants)  
+- [**Code - Plants**](https://github.com/Recordline1/Plants)  
   *Everything plant lovers need: care tips, catalog, and a beautiful user experience.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/f152ce28-d3c7-4de8-9fbe-5c2ef3d5d653" /><div/>
   
 <a href="https://recordline1.github.io/FooD-MooD/">Live Demo</a>   
-- [**FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
+- [**Code - FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
   *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/9a0883b7-0a27-4a5d-925e-c4c1b6f8fd63" /><div/>
 ---
