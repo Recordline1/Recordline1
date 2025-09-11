@@ -19,7 +19,7 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" /><div/>
 
 - [**BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
-- *A platform for beauty clinics to manage appointments and showcase services.*
+  *A platform for beauty clinics to manage appointments and showcase services.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" /><div/>  
 
 - [**Plants**](https://github.com/Recordline1/Plants)  
