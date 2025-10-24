@@ -2,7 +2,7 @@
 
 I'm a passionate **Frontend Developer** with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.
 
-## 🛠️ Tech Stack
+##  Tech Stack
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CB6699?logo=sass&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
@@ -12,15 +12,15 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <a href="https://recordline1.github.io/FooDi/">Live Demo</a> 
 - [**Code - FooDi**](https://github.com/Recordline1/FooDi)  
   *Smart and simple food management—plan meals and reduce waste.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" /><div/>
   
-<a href="https://recordline1.github.io/BeautyClinic/">Live Demo</a> 
-- [**Code - BeautyClinic**](https://github.com/Recordline1/BeautyClinic)
+<a href="https://recordline1.github.io/BeautyClinic/">Live Demo</a>
+- [**Code - BeautyClinic**](https://github.com/Recordline1/BeautyClinic) <br>
   *A platform for beauty clinics to manage appointments and showcase services.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" /><div/>  
   
@@ -34,10 +34,12 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
   *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/9a0883b7-0a27-4a5d-925e-c4c1b6f8fd63" /><div/>
 
-  <a href="https://recordline1.github.io/Furniture-store/">Live Demo</a>   
+<a href="https://recordline1.github.io/Furniture-store/">Live Demo</a>   
 - [**Code - FooD-MooD**](https://(https://github.com/Recordline1/Furniture-store))  
   *Modern furniture e-commerce website with responsive design and clean UI.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/a5ea8982-8e5b-4729-af69-dcfa7ad9d9e1" /><div/>
+   
+
 ---
 
 ## 🌐 Connect with Me
