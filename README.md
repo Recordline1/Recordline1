@@ -33,6 +33,11 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 - [**Code - FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
   *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/9a0883b7-0a27-4a5d-925e-c4c1b6f8fd63" /><div/>
+
+  <a href="https://recordline1.github.io/Furniture-store/">Live Demo</a>   
+- [**Code - FooD-MooD**](https://(https://github.com/Recordline1/Furniture-store))  
+  *Modern furniture e-commerce website with responsive design and clean UI.*
+  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/a5ea8982-8e5b-4729-af69-dcfa7ad9d9e1" /><div/>
 ---
 
 ## 🌐 Connect with Me
