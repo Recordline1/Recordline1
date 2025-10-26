@@ -1,6 +1,6 @@
 <h1> Hello, I'm Ihor D<h1/> 
 
-I'm a passionate **Frontend Developer** with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.
+<p  style="font-weight: normal;">I'm a passionate <b>Frontend Developer</b>b> with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.</p>
 
 ##  Tech Stack
 
