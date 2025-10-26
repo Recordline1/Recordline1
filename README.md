@@ -9,7 +9,7 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
     <img src="https://skillicons.dev/icons?i=css,sass,html,js,react,git,figma" />
   </a>
 </p>
----
+
 
 ##  Featured Projects
 
