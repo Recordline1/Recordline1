@@ -2,7 +2,7 @@
  <img width="1268" height="252" alt="image" src="https://github.com/user-attachments/assets/f1bdcd10-8407-4b6a-83b7-d96c416a7bcf" />
 
 
-<p  style="font-weight: normal;">I'm a passionate <b>Frontend Developer</b>b> with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.</p>
+<p  style="font-weight: normal;">I'm a passionate <b>Frontend Developer</b> with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.</p>
 
 ##  Tech Stack
 
