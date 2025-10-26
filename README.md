@@ -4,7 +4,7 @@ I'm a passionate **Frontend Developer** with a focus on building intuitive and v
 
 ##  Tech Stack
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=css,sass,html,js,react,git,figma" />
   </a>
