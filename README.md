@@ -44,16 +44,10 @@
 ---
 
 ##  Connect with Me
-<a href="https://www.linkedin.com/in/ТВОЙ_ПРОФИЛЬ">
+<a href="https://www.linkedin.com/in/ihor-d-156609271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
 </a>
 
-<!-- <p justify-items: center;>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
- <a href="https://www.linkedin.com/in/ihor-d-156609271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Link with me </a>
-</p> -->
 <!-- [Twitter]()
 [Portfolio]() -->
 ---
