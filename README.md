@@ -36,7 +36,7 @@
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/f152ce28-d3c7-4de8-9fbe-5c2ef3d5d653" /><div/>
 
 <a href="https://recordline1.github.io/Furniture-store/">Live Demo</a>   
-- [**Code - FooD-MooD**](https://(https://github.com/Recordline1/Furniture-store))  
+- [**Code - FooD-MooD**](https://(https://github.com/Recordline1/Furniture-store)  
   *Modern furniture e-commerce website with responsive design and clean UI.*
   <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/a5ea8982-8e5b-4729-af69-dcfa7ad9d9e1" /><div/>
    
