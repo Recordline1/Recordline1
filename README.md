@@ -15,10 +15,11 @@
 
 ##  Featured Projects
 
+
 <a href="https://arct-ten.vercel.app/">Live Demo</a> 
 - [**Code - ARCT**](https://github.com/Recordline1/ARCT)  
   *ARCT — Architectural studio landing page showcasing projects, services, and design approach with a clean, modern layout.*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/c3c4921e-cf9b-4cb3-8bad-3c0c48236388" /><div/>
+  <div><img width="200" height="271" alt="image" src="https://github.com/user-attachments/assets/165946ec-ce6f-4c28-b564-9f1d33b2eccb" /><div/>
   
 <a href="https://recordline1.github.io/FooDi/">Live Demo</a> 
 - [**Code - FooDi**](https://github.com/Recordline1/FooDi)  
