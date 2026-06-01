@@ -20,6 +20,11 @@
 - [**Code - ARCT**](https://github.com/Recordline1/ARCT)  
   *ARCT — Architectural studio landing page showcasing projects, services, and design approach with a clean, modern layout.*
   <div><img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/165946ec-ce6f-4c28-b564-9f1d33b2eccb" /><div/>
+ 
+<a href="https://rick-and-morty-next-olive.vercel.app/">Live Demo</a> 
+- [**Code - ARCT**](https://github.com/Recordline1/rick-and-morty-next)  
+  *Rick and Morty character search app built with Next.js 16 and TypeScript*
+  <div> <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/6aa75076-83f8-4680-b36d-e6964edd8cc4" /><div/>
   
 <a href="https://recordline1.github.io/FooDi/">Live Demo</a> 
 - [**Code - FooDi**](https://github.com/Recordline1/FooDi)  
