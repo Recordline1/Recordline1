@@ -1,71 +1,26 @@
 
- <img width="1268" height="252" alt="image" src="https://github.com/user-attachments/assets/f1bdcd10-8407-4b6a-83b7-d96c416a7bcf" />
+ # Hello, I'm Ihor! 👋
 
+I'm a **Frontend Developer** bridging the gap between architectural aesthetics and modern web technologies. I specialize in building high-performance, intuitive applications.
 
-<p  style="font-weight: normal;">I'm a passionate <b>Frontend Developer</b> with a focus on building intuitive and visually appealing web applications. I love turning ideas into interactive, user-friendly products using modern web technologies.</p>
+## 🛠 Tech Stack
 
-##  Tech Stack
+![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,figma,vscode)
 
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=css,sass,html,js,react,git,figma,vscode" />
-  </a>
-</p>
+## 🚀 Featured Projects
 
-
-##  Featured Projects
-
-
-<a href="https://arct-ten.vercel.app/">Live Demo</a> 
-- [**Code - ARCT**](https://github.com/Recordline1/ARCT)  
-  *ARCT — Architectural studio landing page showcasing projects, services, and design approach with a clean, modern layout.*
-  <div><img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/165946ec-ce6f-4c28-b564-9f1d33b2eccb" /><div/>
- 
-<a href="https://rick-and-morty-next-olive.vercel.app/">Live Demo</a> 
-- [**Code - ARCT**](https://github.com/Recordline1/rick-and-morty-next)  
-  *Rick and Morty character search app built with Next.js 16 and TypeScript*
-  <div> <img width="200" height="auto" alt="image" src="https://github.com/user-attachments/assets/6aa75076-83f8-4680-b36d-e6964edd8cc4" /><div/>
-  
-<a href="https://recordline1.github.io/FooDi/">Live Demo</a> 
-- [**Code - FooDi**](https://github.com/Recordline1/FooDi)  
-  *Smart and simple food management—plan meals and reduce waste.*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" /><div/>
-  
-<a href="https://recordline1.github.io/FooD-MooD/">Live Demo</a>   
-- [**Code - FooD-MooD**](https://github.com/Recordline1/FooD-MooD)  
-  *A web app connecting food choices to your mood. Discover recipes and track your emotional well-being!*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/9a0883b7-0a27-4a5d-925e-c4c1b6f8fd63" /><div/>
-
-  <a href="https://recordline1.github.io/BeautyClinic/">Live Demo</a>
-- [**Code - BeautyClinic**](https://github.com/Recordline1/BeautyClinic) <br>
-  *A platform for beauty clinics to manage appointments and showcase services.*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/4fbfbfa8-c386-41ea-a92f-90f6e0223009" /><div/>  
-  
-<a href="https://recordline1.github.io/Plants/">Live Demo</a> 
-- [**Code - Plants**](https://github.com/Recordline1/Plants)  
-  *Everything plant lovers need: care tips, catalog, and a beautiful user experience.*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/f152ce28-d3c7-4de8-9fbe-5c2ef3d5d653" /><div/>
-
-<a href="https://recordline1.github.io/Furniture-store/">Live Demo</a>   
-- [**Code - Furniture-store**](https://github.com/Recordline1/Furniture-store)  
-  *Modern furniture e-commerce website with responsive design and clean UI.*
-  <div><img width="150" height="auto" alt="image" src="https://github.com/user-attachments/assets/a5ea8982-8e5b-4729-af69-dcfa7ad9d9e1" /><div/>
-   
+| Preview | Project | Description | Links |
+| :--- | :--- | :--- | :--- |
+| <img src="https://github.com/user-attachments/assets/165946ec-ce6f-4c28-b564-9f1d33b2eccb" width="100"/> | **ARCT** | Architectural studio landing page. | [Live](https://arct-ten.vercel.app/) / [Code](https://github.com/Recordline1/ARCT) |
+| <img src="https://github.com/user-attachments/assets/6aa75076-83f8-4680-b36d-e6964edd8cc4" width="100"/> | **Rick & Morty** | Next.js 15 + TS character search. | [Live](https://rick-and-morty-next-olive.vercel.app/) / [Code](https://github.com/Recordline1/rick-and-morty-next) |
+| <img src="https://github.com/user-attachments/assets/fe53038b-fa75-4898-a467-4ccc0402c07e" width="100"/> | **FooDi** | Smart food management & planning. | [Live](https://recordline1.github.io/FooDi/) / [Code](https://github.com/Recordline1/FooDi) |
+| <img src="https://github.com/user-attachments/assets/f152ce28-d3c7-4de8-9fbe-5c2ef3d5d653" width="100"/> | **Plants** | Plant care catalog & guide. | [Live](https://recordline1.github.io/Plants/) / [Code](https://github.com/Recordline1/Plants) |
+| <img src="https://github.com/user-attachments/assets/a5ea8982-8e5b-4729-af69-dcfa7ad9d9e1" width="100" /> | ***Furniture-store** | Modern furniture e-commerce website with responsive design and clean UI. | [Live](https://recordline1.github.io/Furniture-store/) / [Code](https://github.com/Recordline1/Furniture-store) |
 
 ---
 
-##  Connect with Me
-<a href="https://www.linkedin.com/in/ihor-d-156609271?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32"/>
-</a>
+## 📫 Connect with Me
 
-<!-- [Twitter]()
-[Portfolio]() -->
----
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>](https://www.linkedin.com/in/ihor-d-156609271)
 
-<!-- Optional Fun Fact/Quote Section -->
-<!--
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
--->
-
-Thanks for visiting my profile! 🚀
+*Thanks for visiting my profile! 🚀*
