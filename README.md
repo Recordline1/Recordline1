@@ -1,5 +1,5 @@
 
- # Hello, I'm Ihor! 👋
+ # Hello, I'm Ihor! 
 
 I'm a **Frontend Developer** bridging the gap between architectural aesthetics and modern web technologies. I specialize in building high-performance, intuitive applications.
 
