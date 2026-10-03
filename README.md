@@ -3,6 +3,12 @@
 
 I'm a **Frontend Developer** bridging the gap between architectural aesthetics and modern web technologies. I specialize in building high-performance, intuitive applications.
 
+ CERTIFICATE OF COMPLATION
+Full Stack Open Next.js ECTS
+
+<img width="200" height="150" alt="image" src="https://github.com/user-attachments/assets/6d75d90c-9890-494e-96ae-1fdcfa6b68a8" />
+
+
 ## 🛠 Tech Stack
 
 ![Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,git,figma,vscode)
